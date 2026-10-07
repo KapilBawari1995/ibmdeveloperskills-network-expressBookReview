@@ -1,1 +1,8 @@
 
+[
+  {"isbn":"9780132350884","title":"Clean Code","author":"Robert C. Martin","reviews":{}},
+  {"isbn":"9780134685991","title":"Effective Java","author":"Joshua Bloch","reviews":{}},
+  {"isbn":"9781491950296","title":"Learning React","author":"Alex Banks","reviews":{}},
+  {"isbn":"9780131103627","title":"The C Programming Language","author":"Brian W. Kernighan","reviews":{}},
+  {"isbn":"9780596009205","title":"Head First Java","author":"Kathy Sierra","reviews":{}}
+]
